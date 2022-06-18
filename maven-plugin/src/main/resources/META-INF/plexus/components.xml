@@ -1,0 +1,12 @@
+<component-set>
+    <components>
+        <component>
+            <role>org.jetbrains.kotlin.maven.KotlinMavenPluginExtension</role>
+            <role-hint>kotlin-all-static</role-hint>
+            <implementation>
+                io.github.kyay10.kotlinallstatic.AllStaticMavenPlugin
+            </implementation>
+            <configuration/>
+        </component>
+    </components>
+</component-set>
