@@ -10,7 +10,7 @@ plugins {
 }
 val rootGroup = "io.github.kyay10"
 group = rootGroup
-val rootVersion = "0.1.0"
+val rootVersion = "0.1.1"
 version = rootVersion
 val rootName = name
 subprojects {
